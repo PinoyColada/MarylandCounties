@@ -106,7 +106,7 @@ public class Main {
             }
         }
         // output description of county
-        System.out.println(marylandCounties.get(selectedCounty));
+        System.out.println("You have chosen " + selectedCounty + " County: " + marylandCounties.get(selectedCounty));
 
 
         // asks user if they want rerun code again
